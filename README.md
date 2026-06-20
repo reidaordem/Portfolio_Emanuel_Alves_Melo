@@ -7,7 +7,7 @@
 - Fortaleza - CE
 - E-mail: emanuelmeloa@gmail.com
 - GitHub: https://github.com/reidaordem
-- LinkedIn: (adicionar link)
+- LinkedIn: www.linkedin.com/in/emanuel-alves-melo-62762239b
 
 ---
 
