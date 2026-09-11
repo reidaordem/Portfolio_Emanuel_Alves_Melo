@@ -254,7 +254,7 @@ Intermediário
 
 ---
 
-# Fale Sobre Você
+# Sobre mim
 
 Sou estudante de Ciência da Computação na UNIFOR e tenho grande interesse em Visão Computacional, Inteligência Artificial e automação. Gosto de aprender através de projetos práticos e já desenvolvi sistemas envolvendo processamento de imagens, automação web, bancos de dados e desenvolvimento full stack.
 
